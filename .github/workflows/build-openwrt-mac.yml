@@ -9,9 +9,9 @@
 name: Build OpenWrt (macOS)
 
 on: 
-  public
-#  release:
-#    types: [published]
+#  public
+  release:
+    types: [published]
 #  push:
 #    branches: 
 #      - master
